@@ -4,7 +4,7 @@
 ![Soko](gifs/soko.gif)
 ![Lost Vickings](gifs/lost.gif)
 ![Tank Game](gifs/tank.gif)
-
+![Verlet Integration](gifs/verlet.gif)
 
 
 Personal projects trying basic featurs of pico 8.
